@@ -1,0 +1,7 @@
+UN Numbers
+
+Collected from http://en.wikipedia.org/wiki/List_of_UN_numbers
+
+The data directory contains 1 file for each UN Number, e.g., data/1203.json.
+
+Each JSON file contains three keys, "description", "class", and "number".
